@@ -6,3 +6,6 @@ name = "java"
 [[analyzers]]
 name = "javascript"
 
+[[analyzers]]
+name = "secrets"
+
